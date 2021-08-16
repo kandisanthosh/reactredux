@@ -1,0 +1,8 @@
+.editIcon{
+    background-image: url(../../assets/edit_black_24dp.svg);
+    width: 10px;
+    height: 10px;
+    background-repeat: no-repeat;
+    background-position: center;
+    cursor: pointer;
+}
